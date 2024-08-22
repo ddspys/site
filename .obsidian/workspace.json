@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6282d863cc4de2ff",
+        "id": "bf112a8ef29f7564",
         "type": "tabs",
         "children": [
           {
-            "id": "6212bf231b6d5c83",
+            "id": "cede74e5380e6f27",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg"
+                "file": "_posts/2024-08-22-Init.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg",
+                "file": "_posts/2024-08-22-Init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg",
+                "file": "_posts/2024-08-22-Init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg"
+                "file": "_posts/2024-08-22-Init.md"
               }
             }
           }
@@ -144,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0aeee6a34e48fde",
+  "active": "cede74e5380e6f27",
   "lastOpenFiles": [
-    "_posts/2024-08-22-my-first-post.md",
+    "assets/images/bio-photo.jpg",
     "assets/images/KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg",
+    "_posts/2024-08-22-Init.md",
     "_posts/2010-01-07-post-standard.md"
   ]
 }
