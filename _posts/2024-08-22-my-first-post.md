@@ -15,4 +15,4 @@ world
 a <- 1
 
 ```
-![](KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg)
+![](/site/assets/images/bio-photo.jpg)
